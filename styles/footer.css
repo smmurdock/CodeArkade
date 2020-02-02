@@ -1,0 +1,55 @@
+/* Site Wide Footer */
+
+:root {
+    --primary-color: #177777;
+    --dark-color: #333;
+}
+
+#main-footer {
+    color: #fff;
+    background-color: var(--dark-color);
+}
+
+#main-footer a {
+    color: #fff;
+}
+
+
+#logo-light {
+    color: #fff;
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#logo-light span {
+    color: var(--primary-color);
+}
+
+#main-footer .footer-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1.5rem;
+}
+
+#main-footer .footer-container>*:last-child {
+    background-color: #444;
+    grid-column: 1 / span 4;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 0.75rem;
+}
+
+#main-footer .footer-container input[type="email"] {
+    width: 90%;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+#main-footer .footer-container input[type="submit"] {
+    width: 90%;
+}
+
+#main-footer .list li a:hover {
+    color: var(--primary-color);
+}
