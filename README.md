@@ -12,18 +12,18 @@ This project requires you to utilize your HTML and CSS skills to build out a per
 
 2. Draw out some mock pages of the website. ✅
 
-3. (Optional) Begin considering your design system. ✳️
+3. (Optional) Begin considering your design system. ✅
 
 4. Start building out the HTML for the main page. ✅
 
 5. Build the HTML for your example blog post. ✅
 
-6. (Optional) Formalize your design system. ✳️
+6. (Optional) Formalize your design system. ✅
 
-7. Begin styling your pages with CSS. ✳️
+7. Begin styling your pages with CSS. ✅
 
-8. Take a look back at your initial drawings and iterate.
+8. Take a look back at your initial drawings and iterate. ✅
 
-9. Link between pages.
+9. Link between pages. ✅
 
-10. Test and more iteration.
+10. Test and more iteration. ✅
