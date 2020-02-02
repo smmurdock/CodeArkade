@@ -1,4 +1,4 @@
-# CodeArkade (*in progress*)
+# CodeArkade (*submitted*)
 Personal blog website for Udacity Front End Web Developer Nanodegree
 
 ## Introduction
